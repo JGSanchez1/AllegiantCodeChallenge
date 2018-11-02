@@ -1,0 +1,115 @@
+[
+  {
+    "id": 4,
+    "title": "Widget Four",
+    "description": "Hotel",
+    "sprockets": [
+      {
+        "id": 1,
+        "color": {
+          "red": 12,
+          "green": 155,
+          "blue": 225
+        },
+        "price": 2.55
+      },
+      {
+        "id": 2,
+        "color": {
+          "red": 62,
+          "green": 43,
+          "blue":100
+        },
+        "price": 55.52
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title" : "Widget Five",
+    "description": "Echo",
+    "sprockets": []
+  },
+  {
+    "id": 6,
+    "title" : "Widget Six",
+    "description": "Bravo",
+    "sprockets": [
+      {
+        "id": 1,
+        "color": {
+          "red": 124,
+          "green": 186,
+          "blue": 110
+        },
+        "price": 2.55
+      },
+      {
+        "id": 2,
+        "color": {
+          "red": 69,
+          "green": 125,
+          "blue":33
+        },
+        "price": 1
+      }
+    ]
+  },
+   {
+    "id": 7,
+    "title": "Widget Seven",
+    "description": "Foxtrot",
+    "sprockets": [
+      {
+        "id": 1,
+        "color": {
+          "red": 125,
+          "green": 221,
+          "blue": 225
+        },
+        "price": 4.55
+      },
+      {
+        "id": 2,
+        "color": {
+          "red": 206,
+          "green": 34,
+          "blue":123
+        },
+        "price": 44.23
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title" : "Widget Nine",
+    "description": "Indigo",
+    "sprockets": []
+  },
+  {
+    "id": 8,
+    "title" : "Widget Eight",
+    "description": "Uniform",
+    "sprockets": [
+      {
+        "id": 1,
+        "color": {
+          "red": 132,
+          "green": 168,
+          "blue": 101
+        },
+        "price": 52.50
+      },
+      {
+        "id": 2,
+        "color": {
+          "red": 96,
+          "green": 215,
+          "blue":44
+        },
+        "price": 15.99
+      }
+    ]
+  }
+
+]

@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Widget One",
-    "Description": "Alpha",
+    "description": "Alpha",
     "sprockets": [
       {
         "id": 1,
@@ -27,7 +27,7 @@
   {
     "id": 2,
     "title" : "Widget Two",
-    "Description": "Beta",
+    "description": "Beta",
     "sprockets": []
   }
 
